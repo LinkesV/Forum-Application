@@ -1,0 +1,6 @@
+[submodule "Forum-Application-Backend"]
+	path = Forum-Application-Backend
+	url = git@github.com:LinkesV/Forum-Application-Backend.git
+[submodule "Forum-Application-Frontend"]
+	path = Forum-Application-Frontend
+	url = git@github.com:LinkesV/Forum-Application-Frontend.git
